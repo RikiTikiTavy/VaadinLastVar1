@@ -1,0 +1,4 @@
+my\vaadin\app\DatabaseConnectuion.class
+my\vaadin\app\MyUI$MyUIServlet.class
+my\vaadin\app\dao\objects\Customer.class
+my\vaadin\app\MyUI.class
